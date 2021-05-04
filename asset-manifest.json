@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/name-gene/static/css/main.6dbc501a.chunk.css",
+    "main.js": "/name-gene/static/js/main.e8fc6be1.chunk.js",
+    "main.js.map": "/name-gene/static/js/main.e8fc6be1.chunk.js.map",
+    "runtime-main.js": "/name-gene/static/js/runtime-main.0f3a73c7.js",
+    "runtime-main.js.map": "/name-gene/static/js/runtime-main.0f3a73c7.js.map",
+    "static/js/2.97a6283a.chunk.js": "/name-gene/static/js/2.97a6283a.chunk.js",
+    "static/js/2.97a6283a.chunk.js.map": "/name-gene/static/js/2.97a6283a.chunk.js.map",
+    "static/js/3.7f1c66ca.chunk.js": "/name-gene/static/js/3.7f1c66ca.chunk.js",
+    "static/js/3.7f1c66ca.chunk.js.map": "/name-gene/static/js/3.7f1c66ca.chunk.js.map",
+    "index.html": "/name-gene/index.html",
+    "static/css/main.6dbc501a.chunk.css.map": "/name-gene/static/css/main.6dbc501a.chunk.css.map",
+    "static/js/2.97a6283a.chunk.js.LICENSE.txt": "/name-gene/static/js/2.97a6283a.chunk.js.LICENSE.txt",
+    "static/media/svgimg.2319e6db.svg": "/name-gene/static/media/svgimg.2319e6db.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f3a73c7.js",
+    "static/js/2.97a6283a.chunk.js",
+    "static/css/main.6dbc501a.chunk.css",
+    "static/js/main.e8fc6be1.chunk.js"
+  ]
+}
