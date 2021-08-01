@@ -1,8 +1,8 @@
 :root{
   --fsize-h1:3.2em;
-  --clr-main:#fdfdf0;/*darkblue*/
-  --clr-accent:#2f2700;/*lightblue*/
-  --clr-light:black;/*white*/
+  --clr-main:#fdfdf0;
+  --clr-light:#2f2700;
+  --clr-accent:#FAF1A4;
      --f-body:2.1em;
 }
 
